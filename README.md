@@ -16,11 +16,12 @@ My programming tools are mainly
 
 ・Unity / Godot - Game engines
 
-・mySQL / sqlite / postgresql - databases
+・MySQL / Sqlite - Databases
 
-・html / css / vanilla js - frontend
+・Html / Css / Vanilla js - frontend
 
 My interest is currently growing for
 
 ・Concept Art
+
 ・Game Development
