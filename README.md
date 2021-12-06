@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a well versed software engineer, primarily writing frontend portion of websites in my early teens, and moving over to more exciting languages in my late teens. A fan of anything asynchoronous, especially if its made with the tokio runtime.
+I'm a well versed software engineer who worked with android technologies at the beginning of my career. However, lately I have been a huge fan of .NET technologies such as C#. I am currently using C# in a lot of projects such as, Unity, WPF desktop apps and Xamarine. 
 
 I have strong interests in
 
