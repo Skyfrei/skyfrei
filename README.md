@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**klaviotarka/klaviotarka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a well versed software engineer, primarily writing frontend portion of websites in my early teens, and moving over to more exciting languages in my late teens. A fan of anything asynchoronous, especially if its made with the tokio runtime.
 
-Here are some ideas to get you started:
+I have strong interests in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming
+Art
+3D Modeling
+
+My programming tools are mainly
+
+C# / C++ / Kotlin - General purpose languages
+Unity / Godot - Game engines
+mySQL / sqlite / postgresql - databases
+html / css / vanilla js - frontend
+
+My interest is currently growing for
+
+Concept Art
+Game Development
