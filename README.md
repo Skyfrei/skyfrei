@@ -20,7 +20,7 @@ My programming tools are mainly
 
 ・Html / Css / Vanilla js - frontend
 
-My interest is currently growing for
+My interest is growing for
 
 ・Concept Art
 
