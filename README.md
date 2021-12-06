@@ -28,4 +28,4 @@ My interest is growing for:
 
 ・Game Development
 
-<img href="https://discord.gg/W4Nj3uAjkF" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="48">
+<img target="_blank" href="https://discord.gg/W4Nj3uAjkF" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="48">
