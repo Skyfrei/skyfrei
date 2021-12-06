@@ -2,7 +2,7 @@
 
 I'm a well versed software engineer who worked with android technologies at the beginning of my career. However, lately I have been a huge fan of .NET technologies such as C#. I am currently using C# in a lot of projects such as, Unity, WPF desktop apps and Xamarine. 
 
-I have strong interests in
+I have strong interests in:
 
 ・Programming
 
@@ -10,7 +10,7 @@ I have strong interests in
 
 ・3D Modeling
 
-My programming tools are mainly
+My programming tools are mainly:
 
 ・C# / C++ / Kotlin - General purpose languages
 
@@ -20,7 +20,7 @@ My programming tools are mainly
 
 ・Html / Css / Vanilla js - frontend
 
-My interest is growing for
+My interest is growing for:
 
 ・Concept Art
 
