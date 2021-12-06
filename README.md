@@ -4,23 +4,23 @@ I'm a well versed software engineer, primarily writing frontend portion of websi
 
 I have strong interests in
 
-Programming
+・Programming
 
-Art
+・Art
 
-3D Modeling
+・3D Modeling
 
 My programming tools are mainly
 
-C# / C++ / Kotlin - General purpose languages
+・C# / C++ / Kotlin - General purpose languages
 
-Unity / Godot - Game engines
+・Unity / Godot - Game engines
 
-mySQL / sqlite / postgresql - databases
+・mySQL / sqlite / postgresql - databases
 
-html / css / vanilla js - frontend
+・html / css / vanilla js - frontend
 
 My interest is currently growing for
 
-Concept Art
-Game Development
+・Concept Art
+・Game Development
