@@ -27,7 +27,8 @@ My interest is growing for:
 ・Concept Art
 
 ・Game Development
+
 <a href="https://discord.gg/W4Nj3uAjkF">
-  <img src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="48">
+You can check project progression and interact with community here  <img src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="48">
 </a>
 
