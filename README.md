@@ -28,4 +28,4 @@ My interest is growing for:
 
 ・Game Development
 
-![Discord Server](https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down)
+<img src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="48">
