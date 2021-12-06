@@ -6,6 +6,8 @@ I have strong interests in:
 
 ・Programming
 
+・Game　Development
+
 ・Art
 
 ・3D Modeling
