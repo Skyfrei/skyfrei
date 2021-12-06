@@ -6,7 +6,7 @@ I have strong interests in:
 
 ・Programming
 
-・Game　Development
+・Game Development
 
 ・Art
 
