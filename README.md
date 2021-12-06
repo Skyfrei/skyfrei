@@ -5,14 +5,19 @@ I'm a well versed software engineer, primarily writing frontend portion of websi
 I have strong interests in
 
 Programming
+
 Art
+
 3D Modeling
 
 My programming tools are mainly
 
 C# / C++ / Kotlin - General purpose languages
+
 Unity / Godot - Game engines
+
 mySQL / sqlite / postgresql - databases
+
 html / css / vanilla js - frontend
 
 My interest is currently growing for
