@@ -27,3 +27,5 @@ My interest is growing for:
 ・Concept Art
 
 ・Game Development
+
+![Discord Server](https://discord.gg/W4Nj3uAjkF)
