@@ -20,7 +20,7 @@ My programming tools are mainly:
 
 ・MySQL / Sqlite - Databases
 
-・Html / Css / Vanilla js - frontend
+・Html / Css / Vanilla js / Bootstrap - frontend
 
 My interest is growing for:
 
