@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a well versed software engineer who worked with android technologies at the beginning of my career. Lately I have been a huge fan of .NET technologies such as C#. I am currently using C# in a lot of projects such as, Unity, WPF desktop apps and Xamarine. 
+I'm a well versed software engineer who worked with android technologies at the beginning of my career. Lately I have been a huge fan of C#. I am currently using C# in a lot of projects such as, Unity, WPF desktop apps and Xamarine. 
 
 I have strong interests in:
 
