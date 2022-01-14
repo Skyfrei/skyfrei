@@ -38,6 +38,6 @@ You can check project progression and interact with the community here
 </a>
 
 <a href="https://www.deviantart.com/maxxburn">
-  <img src="https://st.deviantart.net/minish/main/logo/card_black_large.png" width="90">
+  <img src="https://st.deviantart.net/minish/main/logo/card_black_large.png" width="100">
 </a>
 
