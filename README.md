@@ -34,6 +34,6 @@ You can check project progression and interact with the community here
   <img src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="48">
 </a>
 <a href="https://maxxburn.itch.io/">
-  <img src="https://i.pcmag.com/imagery/reviews/044PXMK6FlED1dNwOXkecXV-4.fit_scale.size_760x427.v1597354669.jpg" width="68">  
+  <img src="https://i.pcmag.com/imagery/reviews/044PXMK6FlED1dNwOXkecXV-4.fit_scale.size_760x427.v1597354669.jpg" width="78">  
 </a>
 
