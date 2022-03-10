@@ -32,7 +32,7 @@ My interest is growing for:
 You can check project progression and interact with the community on discord.
 
 <a href="https://discord.gg/W4Nj3uAjkF">
-  <img src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="60">
+  <img src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" width="50">
 </a>
 <a href="https://maxxburn.itch.io/">
   <img src="https://i.pcmag.com/imagery/reviews/044PXMK6FlED1dNwOXkecXV-4.fit_scale.size_760x427.v1597354669.jpg" width="90">  
