@@ -43,6 +43,6 @@ You can check project progression and interact with the community on discord.
 </a>
 
 <a href="https://www.twitch.tv/maxburn__">
-  <img src="https://cdn1.dotesports.com/wp-content/uploads/2020/07/22083016/twitchlogo.jpg" width="85">
+  <img src="https://cdn1.dotesports.com/wp-content/uploads/2020/07/22083016/twitchlogo.jpg" width="80">
 </a>
 
