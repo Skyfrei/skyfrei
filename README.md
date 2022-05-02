@@ -37,7 +37,7 @@ You can check project progression and interact with the community on discord.
 </a>
 
 <a href="https://www.artstation.com/maxxburn">
-  <img src="https://pngset.com/images/artstation-logo-watercolor-circles-pictures-to-draw-vertical-triangle-symbol-trademark-text-transparent-png-2540629.png" width="100">
+  <img src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-a8aa107f79c46c9b16dcc7c5fe746084.png" width="100">
 </a>
 
 <a href="https://www.twitch.tv/maxburn__">
