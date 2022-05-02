@@ -36,8 +36,8 @@ You can check project progression and interact with the community on discord.
   <img src="https://i.pcmag.com/imagery/reviews/044PXMK6FlED1dNwOXkecXV-4.fit_scale.size_760x427.v1597354669.jpg" width="90">  
 </a>
 
-<a href="https://www.deviantart.com/maxxburn">
-  <img src="https://st.deviantart.net/minish/main/logo/card_black_large.png" width="100">
+<a href="https://www.artstation.com/maxxburn">
+  <img src="https://pngset.com/images/artstation-logo-watercolor-circles-pictures-to-draw-vertical-triangle-symbol-trademark-text-transparent-png-2540629.png" width="100">
 </a>
 
 <a href="https://www.twitch.tv/maxburn__">
