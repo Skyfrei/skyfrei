@@ -28,7 +28,7 @@ My interest is growing for:
 
 ・Game Development
 
-# **You can check my deployed games on itch.io** 
+# **You can check my deployed games on itch.io and my artwork in artstation** 
 You can check project progression and interact with the community on discord.
 
 
