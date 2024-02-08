@@ -2,31 +2,14 @@
 
 I'm a software engineer who worked with android technologies at the beginning of my career. Lately I have been a huge fan of C#. I am currently using C# in a lot of projects such as, Unity, WPF desktop apps and Xamarine. 
 
-I have strong interests in:
-
-・Programming
-
-・Game Development
-
-・Art
-
-・3D Modeling
-
 My programming tools are mainly:
 
-・C# / C++ / Kotlin - General purpose languages
+・C# / C++  - General purpose languages
 
 ・Unity / Godot - Game engines
 
 ・MySQL / Sqlite - Databases
 
-・Html / Css / Vanilla js / Bootstrap - frontend
-
-My interest is growing for:
-
-・Concept Art
-
-・Game Development
 
 # **You can check my deployed games on itch.io and my artwork in artstation** 
 You can check project progression and interact with the community on discord.
