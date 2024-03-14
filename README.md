@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm a software engineer who worked with android technologies at the beginning of my career. Lately I have been a huge fan of C#. I am currently using C# in a lot of projects such as, Unity, WPF desktop apps and Xamarine. 
-
 My programming tools are mainly:
 
 ・C# / C++  - General purpose languages
 
-・Unity / Godot - Game engines
+・Unity - Game engines
 
 ・MySQL / Sqlite - Databases
 
