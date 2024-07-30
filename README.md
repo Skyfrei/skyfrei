@@ -2,7 +2,7 @@
 
 My programming tools are mainly:
 
-・C# / C++  - General purpose languages
+・C++ / Go / Rust  - General purpose languages
 
 ・Unity - Game engines
 
