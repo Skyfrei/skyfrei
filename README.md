@@ -23,6 +23,7 @@ Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in 
 
 
 
+
 [![Skyfrei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyfrei&theme=tokyo-night)](https://github.com/Skyfrei/github-readme-activity-graph)
 
 
