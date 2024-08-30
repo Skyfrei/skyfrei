@@ -7,5 +7,5 @@ My programming tools are mainly:
 - MySQL / Sqlite - Databases
 
 
-[![Skyfrei github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyfrei)](https://github.com/Skyfrei/github-readme-activity-graph)
+[![Skyfrei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyfrei&theme=tokyo-night)](https://github.com/Skyfrei/github-readme-activity-graph)
 
