@@ -21,7 +21,7 @@ Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in 
   <a href="https://github.com/Skyfrei"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Skyfrei&theme=radical&title_color=ff3068?"></a>   <a href="https://github.com/Skyfrei"><img align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=Skyfrei&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 
-<br>
+<br/>
 
 
 [![Skyfrei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyfrei&theme=tokyo-night)](https://github.com/Skyfrei/github-readme-activity-graph)
