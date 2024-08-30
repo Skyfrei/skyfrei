@@ -1,6 +1,6 @@
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in Game development and Graphical software development. I love to network, join new communities and add value ✨
 
 <div>
 <details>
@@ -10,13 +10,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
 
 - 🌱 I’m currently learning **everything** 🤓
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
+- 💬 Ask me about **open source, game development, and community management**
 
 </details>
   
