@@ -6,9 +6,7 @@ Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in 
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **Godot**
 
 - 💬 Ask me about **open source, game development, and community management**
 
