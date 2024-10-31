@@ -1,6 +1,6 @@
 <p>
   
-Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in Game development and Graphical software development. I love to network, join new communities and add value ✨
+Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in Game development and Graphical software development. I love to network, join new communities.
 
 <div>
 <details>
