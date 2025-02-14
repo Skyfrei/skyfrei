@@ -5,7 +5,6 @@ Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in 
 </p>
 
 ## 🔥 My Stats
-[![Skyfrei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Skyfrei&theme=tokyo-night)](https://github.com/Skyfrei/github-readme-activity-graph)
 
 
 <div style="display: flex; justify-content: space-between;">
