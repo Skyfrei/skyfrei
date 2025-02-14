@@ -2,16 +2,6 @@
   
 Hi 👋, I am an enthusiastic and ambitious software developer. I specialise in Game development and Graphical software development. I love to network, join new communities.
 
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🌱 I’m currently learning **Godot**
-
-- 💬 Ask me about **open source, game development, and community management**
-
-</details>
-  
 </p>
 
 ## 🔥 My Stats
